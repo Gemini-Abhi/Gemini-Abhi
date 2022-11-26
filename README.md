@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gemini-Abhi
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently learning python snd MySQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any kind data analysis projects.
 - 📫 How to reach me via my email asasethy100@gmail.com
 
 <!---

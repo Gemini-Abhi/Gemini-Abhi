@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gemini-Abhi
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently learning python snd MySQL
+- 🌱 I’m currently working different Data Anlytics projects.
 - 💞️ I’m looking to collaborate on any kind of data analysis projects.
-- 📫 How to reach me via my email asasethy100@gmail.com
+- 📫 How to reach me: asethy100@gmail.com
 
 <!---
 Gemini-Abhi/Gemini-Abhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
